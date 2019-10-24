@@ -1,0 +1,6 @@
+The resolution is 10kb bp. 
+
+Note that insulation score starts from the 300th locus on each chromosome (because there are usually no read before that). 
+So if you write your own code,you need to add 300 to each possible TAD boundary you select.
+
+The details about how possible TAD boundaries are selected can be found in the comments of code. 
