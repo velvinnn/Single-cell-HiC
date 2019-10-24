@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 24 11:11:12 2019
-
-@author: 45945
-"""
-
+#This code clusters chr 1-4 as an exmaple
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import signal
