@@ -5,4 +5,5 @@ Kmeans.py:  find the number of clusters IS.
 
 Aggregated.py: call IS for bulk HiC from all cells.
 
+find_CTCF_binding.py: find CTCF binding sites.
 Pile_up.py: piling up the contact map at CTCF binding sites for all cells. 
