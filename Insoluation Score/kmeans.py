@@ -1,3 +1,4 @@
+# This code aims to find the number of clusters IS.
 from sklearn.cluster import KMeans
 import numpy as np
 import matplotlib.pyplot as plt
