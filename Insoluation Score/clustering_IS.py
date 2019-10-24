@@ -1,4 +1,8 @@
+# Use polynomial fit to smooth the IS curve
+# Use kmeans to find the clusters
+
 #This code clusters chr 1-4 as an exmaple
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import signal
