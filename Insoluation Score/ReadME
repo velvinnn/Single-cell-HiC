@@ -1,5 +1,8 @@
 Find_IS.py: find insulation score(IS) from contact maps.
+
 Clustering_IS.py: Use polynomial fit to smooth the IS curves, use kmeans to find the clusters
 Kmeans.py:  find the number of clusters IS.
+
 Aggregated.py: call IS for bulk HiC from all cells.
-Pile_up.py:
+
+Pile_up.py: piling up the contact map at CTCF binding sites for all cells. 
