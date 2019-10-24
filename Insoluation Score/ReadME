@@ -1,1 +1,2 @@
 Find_IS.py: find insulation score(IS) from contact maps.
+Kmeans.py:  find the number of clusters IS.
