@@ -1,3 +1,5 @@
+#This code get IS from aggregating data from all cells.
+# Aimed to compare bulk HiC and sc HiC
 import re
 import numpy as np
 def gen_full_map(adj_file, ch,leng):
