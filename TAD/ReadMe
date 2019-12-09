@@ -4,3 +4,6 @@ Note that insulation score starts from the 300th locus on each chromosome (becau
 So if you write your own code,you need to add 300 to each possible TAD boundary you select.
 
 The details about how possible TAD boundaries are selected can be found in the comments of code. 
+
+The TAD boundaries are given by the CTCF binding sites from ChIP-seq data.
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE30203
