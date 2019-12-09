@@ -8,4 +8,4 @@ Aggregated.py: call IS for bulk HiC from all cells.
 find_CTCF_binding.py: find CTCF binding sites.
 Pile_up.py: piling up the contact map at CTCF binding sites for all cells. 
 
-Poly_PCA.py: Using PCA on the data with polynomial fit to do dimension reduction and clusters.
+Poly_PCA.py: Using PCA on the data with polynomial fit to do dimension reduction and clustering.
